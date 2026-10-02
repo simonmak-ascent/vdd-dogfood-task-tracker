@@ -43,4 +43,6 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
+By [Simon Mak](https://github.com/simonplmak-cloud).
+
 If this saves you time, a ⭐ on GitHub helps others find it.
