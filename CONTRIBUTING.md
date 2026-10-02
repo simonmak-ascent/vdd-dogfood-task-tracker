@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://github.com/simonplmak-cloud/vdd-dogfood-task-tracker.git
+git clone https://github.com/simonmak-ascent/vdd-dogfood-task-tracker.git
 cd vdd-dogfood-task-tracker
 pnpm install
 ```
