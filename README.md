@@ -1,7 +1,10 @@
 # VDD Dogfood Example — Personal Task Tracker
 
-This is the **dogfood example** for [Vision Driven Design](https://github.com/simonplmak-cloud/vision-driven-design).
-It demonstrates the complete VDD 8-phase chain from vision to code.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> **A dogfood example for [Vision Driven Design](https://github.com/simonplmak-cloud/vision-driven-design)** — a personal task tracker built end-to-end through the VDD 8-phase chain, from vision to validation.
+
+This is a reference for what a complete VDD run produces: the constitution, vision, strategy, tactics, spec, plan, task breakdown, implementation, and validation artifacts are all committed together.
 
 ## VDD Chain
 
@@ -33,3 +36,11 @@ Open http://localhost:3000
 ## Tech Stack
 
 TypeScript · Next.js 15 · Tailwind CSS · SQLite · Drizzle ORM
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
+---
+
+If this saves you time, a ⭐ on GitHub helps others find it.
